@@ -6,8 +6,7 @@ A curated list of how to report false positive reports to antivirus vendors
 
 Open an issue or a pull request to suggest changes or additions.
 
-## List of Lists
-> Awesome curated lists classified by topics.
+## List
 
 | Product | Aliases | How to report |
 | --- | --- | --- |
