@@ -6,18 +6,19 @@ A curated list of how to report false positive reports to antivirus vendors
 
 Open an issue or a pull request to suggest changes or additions.
 
-## Working
+## Working :thumbsup:
 
 | Product | Aliases | How to report |
 | --- | --- | --- |
 | Rising | | http://mailcenter.rising.com.cn/filecheck_en/ |
 | TrendMicro | TrendMicro-HouseCall| https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html |
 
-## Broken
+## Broken :thumbsdown:
 
 | Product | How to report | Notes |
 | --- | --- | --- |
 | CAT-QuickHeal | http://www.quickheal.com/submitticket / http://www.quickheal.co.in/submitticket | .com site redirects to .in site which redirects to .com site |
+| TheHacker | virus@hacksoft.com.pe / soporte@hacksoft.com.pe | Both email boxes are full and bounce email back |
 
 ## License
 
