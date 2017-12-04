@@ -10,7 +10,8 @@ Open an issue or a pull request to suggest changes or additions.
 
 | Product | Aliases | How to report |
 | --- | --- | --- |
-| Avira | --- | https://analysis.avira.com/en/submit |
+| Avira |  | https://analysis.avira.com/en/submit |
+| Qihoo-360 |  | https://www.360totalsecurity.com/en/suspicion/false-positive/ |
 | Rising | | http://mailcenter.rising.com.cn/filecheck_en/ |
 | TrendMicro | TrendMicro-HouseCall| https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html |
 
