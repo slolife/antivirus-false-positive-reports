@@ -1,4 +1,4 @@
-# How to report false postives to AntiVirus vendors
+# How to report false postives to Antivirus vendors
 
 A curated list of how to report false positive reports to antivirus vendors
 
