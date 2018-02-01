@@ -14,12 +14,12 @@ Open an issue or a pull request to suggest changes or additions.
 | Qihoo-360 |  | https://www.360totalsecurity.com/en/suspicion/false-positive/ |
 | Rising | | http://mailcenter.rising.com.cn/filecheck_en/ |
 | TrendMicro | TrendMicro-HouseCall| https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html |
+| CAT-QuickHeal | | usasupport@quickheal.com |
 
 ## Broken :thumbsdown:
 
 | Product | How to report | Notes |
 | --- | --- | --- |
-| CAT-QuickHeal | http://www.quickheal.com/submitticket / http://www.quickheal.co.in/submitticket | .com site redirects to .in site which redirects to .com site |
 | TheHacker | virus@hacksoft.com.pe / soporte@hacksoft.com.pe | Both email boxes are full and bounce email back |
 
 ## License
