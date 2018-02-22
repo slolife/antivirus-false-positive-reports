@@ -15,6 +15,7 @@ Open an issue or a pull request to suggest changes or additions.
 | Rising | | http://mailcenter.rising.com.cn/filecheck_en/ |
 | TrendMicro | TrendMicro-HouseCall| https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html |
 | CAT-QuickHeal | | usasupport@quickheal.com |
+| Symantec / Norton | Safe Web | https://submit.symantec.com/false_positive/
 
 ## Broken :thumbsdown:
 
