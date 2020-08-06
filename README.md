@@ -21,7 +21,7 @@ Open an issue or a pull request to suggest changes or additions.
 
 | Product | How to report | Notes |
 | --- | --- | --- |
-| TheHacker | virus@hacksoft.com.pe / soporte@hacksoft.com.pe | Both email boxes are full and bounce email back |
+|     |     |     |
 
 ## License
 
